@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OpenSearchDescription xmlns="http://a9.com/-/spec/opensearch/1.1/"
+                       xmlns:moz="http://www.mozilla.org/2006/browser/search/">
+    <ShortName>nico</ShortName>
+    <Description>nicovideo search</Description>
+    <Image width="16" height="16" type="image/x-icon">http://res.nimg.jp/img/favicon.ico</Image>
+    <InputEncoding>UTF-8</InputEncoding>
+    <Url type="text/html" template="http://www.nicovideo.jp/search/{searchTerms}" />
+    <Developer>cympfh</Developer>
+    <Contact>cympfh@gmail.com</Contact>
+</OpenSearchDescription>
