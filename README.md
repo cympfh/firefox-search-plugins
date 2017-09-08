@@ -1,16 +1,13 @@
-Firefox Search Plugins
-===
+# Firefox Search Plugins
 
-install
----
+## install
 
-```bash
-open install.html
-```
+Open `install.html` on your browser, and choose a link.
 
-plugins list
----
+## plugins list
 
-- Nico Search
-    - nicovideo.com
+- WolframAlpha
+    - https://www.wolframalpha.com
+- NicoVideo Search
+    - http://www.nicovideo.jp/
 
